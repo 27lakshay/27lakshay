@@ -15,6 +15,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+- 🌱 I’m currently learning - WebSockets
+- 👯 I’m looking for an Internship in Web Development as well.
+
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: lakshyak983@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1QPnAJ3tFvjJcb8P2FyaaLoW2rnWDZx2u/view?usp=sharing)

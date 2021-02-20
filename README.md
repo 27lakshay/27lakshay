@@ -18,7 +18,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 🌱 I’m currently learning - WebSockets
 - 👯 I’m looking for an Internship in Web Development as well.
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about - ReactJS, NodeJS, JavaScript
 - 📫 How to reach me: lakshyak983@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1QPnAJ3tFvjJcb8P2FyaaLoW2rnWDZx2u/view?usp=sharing)
 

@@ -8,21 +8,17 @@
 
 <br />
 
-Hi, I'm Lakshya Kumar, a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+Hi, I'm Lakshya Kumar, a passionate self-taught Web Developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 🌱 I’m currently learning - WebSockets
-- 👯 I’m looking for an Internship in Web Development as well.
+- 👯 I’m looking for full-time roles in Software Engineering.
 
-- 💬 Ask me about - ReactJS, NodeJS, JavaScript
+- 💬 Ask me about - ReactJS, JavaScript
 - 📫 How to reach me: lakshyak983@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1QPnAJ3tFvjJcb8P2FyaaLoW2rnWDZx2u/view?usp=sharing)
 
-
+- P.S - More active on BitBucket or GitLab
 <!--
 **27lakshay/27lakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

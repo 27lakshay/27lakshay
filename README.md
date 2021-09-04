@@ -12,10 +12,8 @@ Hi, I'm Lakshya Kumar, a passionate self-taught Web Developer from India. My pas
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 🌱 I’m currently learning - WebSockets
 - 👯 I’m looking for full-time roles in Software Engineering.
 
-- 💬 Ask me about - ReactJS, JavaScript
 - 📫 How to reach me: lakshyak983@gmail.com;
 
 - P.S - More active on BitBucket or GitLab
